@@ -34,7 +34,7 @@ random → Randomized responses
 
 Clone this repository:
 
-git clone https://github.com/your-username/PyBot.git
+git clone https://github.com/Varma2767/CHATBOT
 cd PyBot
 
 
