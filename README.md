@@ -89,4 +89,4 @@ Expand response patterns
 
 👨‍💻 Author
 
-Developed by [Your Name] 🚀
+Developed by Sandeep Datla
